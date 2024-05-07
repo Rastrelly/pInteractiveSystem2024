@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="pInteractiveSystem.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="51" Y="19"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uintsys.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uIntSys"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="170"/>
+        <CursorPos X="13" Y="187"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\controls.pp"/>
+        <UnitName Value="Controls"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="1803"/>
+        <CursorPos X="23" Y="1819"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="uintsys.pas"/>
+        <Caret Line="54" Column="25" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="uintsys.pas"/>
+        <Caret Line="58" Column="66" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="uintsys.pas"/>
+        <Caret Line="61" Column="68" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="uintsys.pas"/>
+        <Caret Line="86" Column="51" TopLine="57"/>
+      </Position>
+      <Position>
+        <Filename Value="uintsys.pas"/>
+        <Caret Line="60" TopLine="54"/>
+      </Position>
+      <Position>
+        <Filename Value="uintsys.pas"/>
+        <Caret Line="94" Column="20" TopLine="63"/>
+      </Position>
+      <Position>
+        <Filename Value="uintsys.pas"/>
+        <Caret Line="58" Column="48" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="uintsys.pas"/>
+        <Caret Line="100" Column="3" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="uintsys.pas"/>
+        <Caret Line="92" Column="29" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="uintsys.pas"/>
+        <Caret Line="91" Column="29" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="uintsys.pas"/>
+        <Caret Line="94" Column="58" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="uintsys.pas"/>
+        <Caret Line="96" Column="43" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="uintsys.pas"/>
+        <Caret Line="95" Column="13" TopLine="78"/>
+      </Position>
+      <Position>
+        <Filename Value="uintsys.pas"/>
+        <Caret Line="22" Column="58" TopLine="6"/>
+      </Position>
+      <Position>
+        <Filename Value="uintsys.pas"/>
+        <Caret Line="60" Column="58" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="uintsys.pas"/>
+        <Caret Line="103" Column="3" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="uintsys.pas"/>
+        <Caret Line="20" Column="16" TopLine="3"/>
+      </Position>
+      <Position>
+        <Filename Value="uintsys.pas"/>
+        <Caret Line="160" Column="47" TopLine="138"/>
+      </Position>
+      <Position>
+        <Filename Value="uintsys.pas"/>
+        <Caret Line="174" Column="13" TopLine="142"/>
+      </Position>
+      <Position>
+        <Filename Value="uintsys.pas"/>
+        <Caret Line="35" Column="17" TopLine="9"/>
+      </Position>
+      <Position>
+        <Filename Value="uintsys.pas"/>
+        <Caret Line="95" Column="11" TopLine="78"/>
+      </Position>
+      <Position>
+        <Filename Value="uintsys.pas"/>
+        <Caret Line="127" Column="38" TopLine="104"/>
+      </Position>
+      <Position>
+        <Filename Value="uintsys.pas"/>
+        <Caret Line="178" Column="37" TopLine="161"/>
+      </Position>
+      <Position>
+        <Filename Value="uintsys.pas"/>
+        <Caret Line="199" Column="37" TopLine="171"/>
+      </Position>
+      <Position>
+        <Filename Value="uintsys.pas"/>
+        <Caret Line="178" Column="12" TopLine="161"/>
+      </Position>
+      <Position>
+        <Filename Value="uintsys.pas"/>
+        <Caret Line="196" Column="34" TopLine="166"/>
+      </Position>
+      <Position>
+        <Filename Value="uintsys.pas"/>
+        <Caret Line="178" Column="39" TopLine="161"/>
+      </Position>
+      <Position>
+        <Filename Value="uintsys.pas"/>
+        <Caret Line="141" Column="44" TopLine="132"/>
+      </Position>
+      <Position>
+        <Filename Value="uintsys.pas"/>
+        <Caret Line="118" TopLine="96"/>
+      </Position>
+      <Position>
+        <Filename Value="uintsys.pas"/>
+        <Caret Line="22" Column="41" TopLine="5"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
